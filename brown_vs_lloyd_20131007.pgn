@@ -1,0 +1,42 @@
+[Site "cyberspace"]
+[Date "2013-10-07"]
+[Result "1/2-1/2"]
+[White "Brown"]
+[Black "Lloyd"]
+[PlyCount "69"]
+
+ 1. e4      e5
+ 2. Nf3     Nc6
+ 3. Bb5     a6
+ 4. Ba4     b5
+ 5. Bb3     d6
+ 6. O-O     Bg4
+ 7. d4      Bxf3
+ 8. Qxf3    Qf6
+ 9. dxe5    Nxe5
+10. Qxf6    Nxf6
+11. Nc3     Be7
+12. f4      Nc6
+13. e5      dxe5
+14. fxe5    Nxe5
+15. Bf4     Nfd7
+16. Rae1    f6
+17. Ne4     O-O-O
+18. Be6     Kb8
+19. b3      Ng6
+20. Bg3     Nc5
+21. Bf5     Nxe4
+22. Rxe4    Bc5+
+23. Bf2     Bxf2+
+24. Kxf2    Rd2+
+25. Re2     Rhd8
+26. Bd3     Rxe2+
+27. Kxe2    Ne5
+28. Be4     c5
+29. h3      h6
+30. Rd1     Rxd1
+31. Kxd1    c4
+32. Kd2     a5
+33. Ke3     b4
+34. Kd4     cxb3
+35. axb3
