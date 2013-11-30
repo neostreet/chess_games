@@ -1,0 +1,25 @@
+[Site "cyberspace"]
+[Date "2013-10-30"]
+[Result "0-1"]
+[White "Lloyd"]
+[Black "Brown"]
+[PlyCount "36"]
+
+ 1. d4      Nf6
+ 2. c4      e6
+ 3. Nc3     g6
+ 4. Bg5     Bg7
+ 5. e3      O-O
+ 6. Bd3     b6
+ 7. Qf3     d5
+ 8. cxd5    Bb7
+ 9. Bxf6    Bxf6
+10. Be4     e5
+11. dxe5    Bxe5
+12. Rd1     Qd6
+13. h3      Qb4
+14. Ne2     Qxb2
+15. Nb1     Ba6
+16. d6      Bxd6
+17. Bxa8    Bb4+
+18. Kf1     Qc2
